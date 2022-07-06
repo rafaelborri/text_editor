@@ -1,2 +1,3 @@
 # text_editor
-Text editor programmed in Python
+
+Thanks #100ProjectsOfCode for this idea 💡. 
